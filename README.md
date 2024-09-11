@@ -2,7 +2,7 @@
 
 A simple todo app Flutter project with hive as a local storage database.
 
-## Getting Started
+## Resources
 
 This project was based from a youtube content creator : 
 - [Mitch Koko](https://www.youtube.com/@createdbykoko)
